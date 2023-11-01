@@ -4,4 +4,4 @@ expiry
 
 #### License
 
-mit
+mit# frappe-subscription-expiry
